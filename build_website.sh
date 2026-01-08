@@ -21,4 +21,4 @@ git commit -m "Deploy static site $(date +'%Y-%m-%d %H:%M:%S')"
 git push origin gh-pages --force
 
 # Switch back to source branch
-git checkout source
+git checkout my_source
