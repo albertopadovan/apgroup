@@ -34,6 +34,9 @@ rm -rf "$tmpdir"
 # Add .nojekyll to avoid GitHub Pages processing
 touch .nojekyll
 
+# Remove leftover _site/ from source branch so it doesn't get committed to gh-pages
+rm -rf _site
+
 # Commit and push
 git add .
 git commit -m "Deploy static site $(date +'%Y-%m-%d %H:%M:%S')"
