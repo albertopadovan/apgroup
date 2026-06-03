@@ -84,6 +84,13 @@ scholar:
   # bibliography_list_attributes:
   #   reversed: "reversed"
 
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
+
 exclude:
   - Gemfile
   - Gemfile.lock
