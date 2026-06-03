@@ -1,0 +1,16 @@
+- name: Mark Fasano
+  photo: mark_fasano_headshot.jpg
+  info: Postdoctoral Research Associate<br/>
+    Mechanical and Industrial Engineering<br/>
+    New Jersey Institute of Technology
+  email: mf326@njit.edu
+  # website: https://website.com
+  # education:
+  #   [
+  #     "Ph.D. ..., University (year)",
+  #   ]
+  about: Mark Fasano is a Postdoctoral Research Assistant in the Mechanical and Industrial Engineering Department at New Jersey Institute of Technology. 
+    He received his Ph.D. in Applied Mathematics from New Jersey Institute of Technology in 2026. 
+    During his doctoral studies, he conducted research with the Complex Flows and Soft Matter group at NJIT, 
+    where he developed lubrication-theory models for SAW-driven spreading of thin films and droplets. 
+    His research interests include fluid mechanics, thin-film flows, interfacial phenomena, and applied mathematics.
