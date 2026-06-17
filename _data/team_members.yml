@@ -17,6 +17,22 @@
     data science, and reduced-order modeling. Beyond research, Federico enjoys theater, 
     music, and playing soccer.
 
+- name: Nuofei Cai
+  photo: nuofei_cai_headshot.png
+  info: Undergraduate student (2nd year)<br/>
+    Mechanical and Industrial Engineering<br/>
+    New Jersey Institute of Technology
+  email: nc539@njit.edu
+  # website: https://website.com
+  # education:
+  #   [
+  #     "M.S. Aeronautical Engineering, Politecnico di Milano (2024)",
+  #   ]
+  about: Nuofei Cai is currently an undergraduate student studying Mechanical Engineering at 
+    the New Jersey Institute of Technology. His current work focuses on computational fluid dynamics and fluid-structure interaction. 
+    Beyond research, he enjoys gaming and working out. 
+
+
 
 - name: Adi Jha
   photo: adi_jha_headshot.png
