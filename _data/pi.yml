@@ -1,6 +1,6 @@
 - name: Alberto Padovan
   photo: ap_headshot.jpg
-  info: "Assistant Professor<br>Mechanical and Industrial Engineering<br>New Jersey Institute of Technology"
+  info: "Assistant Professor<br>Mechanical and Industrial Engineering<br>Mathematical Sciences<br>New Jersey Institute of Technology"
   email: alberto.padovan@njit.edu
   github: https://github.com/albertopadovan
   researchgate: https://www.researchgate.net/profile/Alberto-Padovan?ev=hdr_xprf
@@ -14,7 +14,8 @@
   #     "B.S. Mechanical and Aerospace Engineering, SUNY Buffalo (2017)",
   #   ]
   about: Alberto Padovan is an Assistant Professor in the [Mechanical and Industrial Engineering Department](https://mie.njit.edu/) at 
-    New Jersey Institute of Technology. He received his Ph.D. from Princeton University in Mechanical and Aerospace Engineering 
+    New Jersey Institute of Technology, and he is also affiliated with the Department of Mathematical Sciences. 
+    He received his Ph.D. from Princeton University in Mechanical and Aerospace Engineering 
     in September 2022, and from 2022 to 2025 he was a Postdoctoral Research Associate in the 
     Aerospace Engineering Department at the University of Illinois Urbana-Champaign, where he was also 
     affiliated with the Center for Hypersonics and Entry Systems Studies. Alberto's research interests 
