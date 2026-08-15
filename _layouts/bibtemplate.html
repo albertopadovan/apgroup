@@ -34,7 +34,7 @@ pre{
 </style>
 
 
-<div class="text-justify">{{reference}}</div>
+<div class="text-justify">{{reference}}{% if entry.type == 'incollection' and entry.youtube %} <a href="{{ entry.youtube }}" target="_blank"><button class="btn btn-success btm-sm">YouTube</button></a>{% endif %}</div>
 
 <!-- You can use the below to make your name bold -->
 <!-- {{reference | replace_first: 'Bryngelson, S. H.', '<b>Bryngelson, S. H.</b>' | replace_first: 'Bryngelson, S.', '<b>Bryngelson, S.</b>' }}</div> -->
@@ -60,6 +60,10 @@ pre{
 {% else %}
 <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank"><button class="btn btn-primary btm-sm">DOI</button></a>
 {% endif %}
+{% endif %}
+
+{% if entry.youtube and entry.type != 'incollection' %}
+<a href="{{ entry.youtube }}" target="_blank"><button class="btn btn-success btm-sm">YouTube</button></a>
 {% endif %}
 
 {% if entry.type == 'unpublished' or entry.type == 'article' or  entry.type == 'thesis' or entry.type == 'inproceedings' or entry.type == 'report' %}

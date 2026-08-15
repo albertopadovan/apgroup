@@ -19,7 +19,7 @@
 
 - name: Nuofei Cai
   photo: nuofei_cai_headshot.jpg
-  info: Undergraduate student (2nd year)<br/>
+  info: Undergraduate student (3rd year)<br/>
     Mechanical and Industrial Engineering<br/>
     New Jersey Institute of Technology
   email: nc539@njit.edu
@@ -32,11 +32,25 @@
     the New Jersey Institute of Technology. His current work focuses on computational fluid dynamics and fluid-structure interaction. 
     Beyond research, he enjoys gaming and working out. 
 
+- name: Aiden Lim
+  photo: aiden_lim_headshot.jpg
+  info: Undergraduate student (2nd year)<br/>
+    Mechanical and Industrial Engineering<br/>
+    New Jersey Institute of Technology
+  email: afl25@njit.edu
+  # website: https://website.com
+  # education:
+  #   [
+  #     "M.S. Aeronautical Engineering, Politecnico di Milano (2024)",
+  #   ]
+  about: Aiden F. Lim is currently an undergraduate at NJIT's Department of Mechanical and Industrial Engineering. 
+    His research focuses on bifurcations, chaos, and chattering in the bouncing ball system. 
+    Outside of research, he enjoys  puzzle games and doing anything music-related.
 
 
 - name: Adi Jha
   photo: adi_jha_headshot.png
-  info: Undergraduate student (1st year)<br/>
+  info: Undergraduate student (2nd year)<br/>
     Aerospace Engineering and Electrical Engineering<br/>
     University of Illinois Urbana-Champaign
   email: adijha2@illinois.edu
